@@ -1,0 +1,1 @@
+Next Prev jQuery Plugin
